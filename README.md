@@ -1,2 +1,2 @@
-# Planner-Programming-II---project-
+# Planner-Programming-II
 Planner (Programming II - project)
