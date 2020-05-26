@@ -1,6 +1,8 @@
 # Planner-Programming-II
 Planner (Programming II - project)
 
+The programme can be triggered by running MainWindow.py file. 
+
 The name of programme is ‘My Planner’. This programme will have a graphical user interface (GUI), which is going to be designed in TKinter. I really liked it in our previous project, so I am looking forward to extend my knowledge of it. This time I would like to focus on the visual design and the lay-out of all objects in the window, so I hope I will manage to do it.
 First of all, this programme might seem simple but there is a functionality and logic behind it which need to be done and solved. I enjoy working with databases in our Database Systems class, so I will definitely include a database PostgreSQL in my project. The programme will keep track of all user’s activity. A user can add, update and delete an activity/event which will be stored in the database. This activity/event will be related to a date and time, so user can search for certain date and see what activities/events have been stored. The database will also store a hundred of quotes (quote and author), which will be randomly selected as a quote of the day each time a user runs the programme. The programme will also display 3-5 upcoming activities/events.
 I have also wanted to extend my knowledge of web-scraping, because I have found it very cool during our programming class in the first semester. It is amazing what a few lines of code are able to do! I have selected one of my favourite websites - Hacker News (https://news.ycombinator.com) to my project. The programme will display top 3 rated articles which be found according to the points which readers add to all articles on the website.
